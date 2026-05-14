@@ -12,7 +12,6 @@
     min-width: 0;
 }
 
-/* Tablet */
 @media (max-width: 1024px) {
     .right-box {
         margin: 1rem 0;
@@ -24,7 +23,6 @@
     }
 }
 
-/* Mobile */
 @media (max-width: 640px) {
     .right-box {
         margin: 0.5rem 0;
@@ -45,7 +43,6 @@
     font-size: 1rem;
 }
 
-/* Mobile */
 @media (max-width: 640px) {
     .total-box {
         margin-top: 1rem;
@@ -65,7 +62,6 @@
     font-size: 1rem;
 }
 
-/* Mobile */
 @media (max-width: 640px) {
     .split-box {
         padding-right: 0.8rem;
